@@ -15,5 +15,5 @@ This project processes raw daily sales data using **Pandas** to extract key busi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/coffee-shop-sales-analysis.git](https://github.com/your-username/coffee-shop-sales-analysis.git)
+   git clone https://github.com/azrabaltali/coffee-shop-sales-analysis.git
    cd coffee-shop-sales-analysis
